@@ -1,0 +1,50 @@
+body {
+
+   color: white;
+   background-color:#4682B4;
+   margin-left: 150px;
+
+}
+
+main {
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+
+}
+
+nav ul li { 
+	list-style: none;
+    display: inline-block;
+    margin-right: 150px; 
+  
+}
+
+.opções ul li a { 
+color: black;
+border-bottom: 3px dashed #00BFFF;
+text-decoration: none;
+font-size: 25px;
+font-family: Comic Sans MS, cursive;
+
+}
+
+.opções ul li a {
+	margin-left: 150px;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	text-align: justify;
+	
+}
+
+img {
+	width: 400px
+}
+
+h3 {
+	margin-right: 150px;
+}
+

@@ -1,0 +1,65 @@
+.formatoMenu {
+font-family: Brush Script MT;	
+}
+
+body {
+
+   color: white;
+   background-color:#4682B4;
+
+}
+
+main {
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+
+}
+
+nav ul li { 
+	list-style: none;
+    display: inline-block;
+    margin-right: 150px; 
+  
+}
+
+.opções ul li a { 
+color: black;
+border-bottom: 3px dashed #00BFFF;
+text-decoration: none;
+font-size: 25px;
+font-family: Comic Sans MS, cursive;
+
+}
+
+.opções ul li a {
+	margin-left: 150px;
+}
+
+.Mai2  {
+	background: #00000054;
+	border-radius: 5px;
+}
+
+.Mai3 {
+	background: #00000054;
+	border-radius: 5px;
+}
+
+.NameZoo {
+
+	font-size: : 18px;
+	text-align:  center;
+	font-weight: bold;
+	
+}
+
+.SobreN { 
+	
+	font-style: italic;
+}
+
+.firstIMG {
+	background: #00000054;
+	border-radius: 5px;
+	}
